@@ -14,8 +14,6 @@ int main()
   }
 
 */
-
-
 	int cost = 1000;
 	int profit = cost * 60 / 100;
 	int totalCost = cost + profit;
@@ -25,6 +23,8 @@ int main()
 	cout << "Total Price = " << totalCost << endl;
 	cout << "Discount = " << discount << endl;
 	cout << "Selling Price = " << sellingPrice << endl;
+
+
 
 
 	return 0;
